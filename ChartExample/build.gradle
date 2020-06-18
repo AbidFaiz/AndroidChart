@@ -3,11 +3,11 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.xxmassdeveloper.mpchartexample"
+        applicationId "com.developer.charts"
         minSdkVersion 16
         targetSdkVersion 28
         versionCode 57
-        versionName '3.1.0'
+        versionName '2.2.4'
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
