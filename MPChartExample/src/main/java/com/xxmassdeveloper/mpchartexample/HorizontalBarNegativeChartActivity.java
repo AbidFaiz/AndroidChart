@@ -2,7 +2,6 @@
 package com.xxmassdeveloper.mpchartexample;
 
 import android.Manifest;
-import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.RectF;
@@ -15,23 +14,22 @@ import android.view.WindowManager;
 import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.core.content.ContextCompat;
 
-import com.github.mikephil.charting.charts.HorizontalBarChart;
-import com.github.mikephil.charting.components.Legend;
-import com.github.mikephil.charting.components.XAxis;
-import com.github.mikephil.charting.components.XAxis.XAxisPosition;
-import com.github.mikephil.charting.components.YAxis;
-import com.github.mikephil.charting.data.BarData;
-import com.github.mikephil.charting.data.BarDataSet;
-import com.github.mikephil.charting.data.BarEntry;
-import com.github.mikephil.charting.data.Entry;
-import com.github.mikephil.charting.highlight.Highlight;
-import com.github.mikephil.charting.interfaces.datasets.IBarDataSet;
-import com.github.mikephil.charting.listener.OnChartValueSelectedListener;
-import com.github.mikephil.charting.utils.MPPointF;
+import com.github.abidfaiz.charting.charts.HorizontalBarChart;
+import com.github.abidfaiz.charting.components.Legend;
+import com.github.abidfaiz.charting.components.XAxis;
+import com.github.abidfaiz.charting.components.XAxis.XAxisPosition;
+import com.github.abidfaiz.charting.components.YAxis;
+import com.github.abidfaiz.charting.data.BarData;
+import com.github.abidfaiz.charting.data.BarDataSet;
+import com.github.abidfaiz.charting.data.BarEntry;
+import com.github.abidfaiz.charting.data.Entry;
+import com.github.abidfaiz.charting.highlight.Highlight;
+import com.github.abidfaiz.charting.interfaces.datasets.IBarDataSet;
+import com.github.abidfaiz.charting.listener.OnChartValueSelectedListener;
+import com.github.abidfaiz.charting.utils.MPPointF;
 import com.xxmassdeveloper.mpchartexample.notimportant.DemoBase;
 
 import java.util.ArrayList;

@@ -15,17 +15,17 @@ import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 
-import com.github.mikephil.charting.charts.ScatterChart;
-import com.github.mikephil.charting.components.Legend;
-import com.github.mikephil.charting.components.XAxis;
-import com.github.mikephil.charting.components.YAxis;
-import com.github.mikephil.charting.data.Entry;
-import com.github.mikephil.charting.data.ScatterData;
-import com.github.mikephil.charting.data.ScatterDataSet;
-import com.github.mikephil.charting.highlight.Highlight;
-import com.github.mikephil.charting.interfaces.datasets.IScatterDataSet;
-import com.github.mikephil.charting.listener.OnChartValueSelectedListener;
-import com.github.mikephil.charting.utils.ColorTemplate;
+import com.github.abidfaiz.charting.charts.ScatterChart;
+import com.github.abidfaiz.charting.components.Legend;
+import com.github.abidfaiz.charting.components.XAxis;
+import com.github.abidfaiz.charting.components.YAxis;
+import com.github.abidfaiz.charting.data.Entry;
+import com.github.abidfaiz.charting.data.ScatterData;
+import com.github.abidfaiz.charting.data.ScatterDataSet;
+import com.github.abidfaiz.charting.highlight.Highlight;
+import com.github.abidfaiz.charting.interfaces.datasets.IScatterDataSet;
+import com.github.abidfaiz.charting.listener.OnChartValueSelectedListener;
+import com.github.abidfaiz.charting.utils.ColorTemplate;
 import com.xxmassdeveloper.mpchartexample.custom.CustomScatterShapeRenderer;
 import com.xxmassdeveloper.mpchartexample.notimportant.DemoBase;
 

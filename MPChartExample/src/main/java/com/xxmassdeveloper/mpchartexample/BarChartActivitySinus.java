@@ -15,16 +15,16 @@ import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 
-import com.github.mikephil.charting.charts.BarChart;
-import com.github.mikephil.charting.components.Legend;
-import com.github.mikephil.charting.components.Legend.LegendForm;
-import com.github.mikephil.charting.components.XAxis;
-import com.github.mikephil.charting.components.YAxis;
-import com.github.mikephil.charting.data.BarData;
-import com.github.mikephil.charting.data.BarDataSet;
-import com.github.mikephil.charting.data.BarEntry;
-import com.github.mikephil.charting.interfaces.datasets.IBarDataSet;
-import com.github.mikephil.charting.utils.FileUtils;
+import com.github.abidfaiz.charting.charts.BarChart;
+import com.github.abidfaiz.charting.components.Legend;
+import com.github.abidfaiz.charting.components.Legend.LegendForm;
+import com.github.abidfaiz.charting.components.XAxis;
+import com.github.abidfaiz.charting.components.YAxis;
+import com.github.abidfaiz.charting.data.BarData;
+import com.github.abidfaiz.charting.data.BarDataSet;
+import com.github.abidfaiz.charting.data.BarEntry;
+import com.github.abidfaiz.charting.interfaces.datasets.IBarDataSet;
+import com.github.abidfaiz.charting.utils.FileUtils;
 import com.xxmassdeveloper.mpchartexample.notimportant.DemoBase;
 
 import java.util.ArrayList;

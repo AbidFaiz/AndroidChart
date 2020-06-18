@@ -16,14 +16,14 @@ import android.view.MenuItem;
 import android.view.WindowManager;
 import android.widget.RelativeLayout;
 
-import com.github.mikephil.charting.animation.Easing;
-import com.github.mikephil.charting.charts.PieChart;
-import com.github.mikephil.charting.components.Legend;
-import com.github.mikephil.charting.data.PieData;
-import com.github.mikephil.charting.data.PieDataSet;
-import com.github.mikephil.charting.data.PieEntry;
-import com.github.mikephil.charting.formatter.PercentFormatter;
-import com.github.mikephil.charting.utils.ColorTemplate;
+import com.github.abidfaiz.charting.animation.Easing;
+import com.github.abidfaiz.charting.charts.PieChart;
+import com.github.abidfaiz.charting.components.Legend;
+import com.github.abidfaiz.charting.data.PieData;
+import com.github.abidfaiz.charting.data.PieDataSet;
+import com.github.abidfaiz.charting.data.PieEntry;
+import com.github.abidfaiz.charting.formatter.PercentFormatter;
+import com.github.abidfaiz.charting.utils.ColorTemplate;
 import com.xxmassdeveloper.mpchartexample.notimportant.DemoBase;
 
 import java.util.ArrayList;

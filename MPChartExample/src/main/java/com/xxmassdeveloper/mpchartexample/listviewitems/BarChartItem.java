@@ -6,12 +6,12 @@ import android.graphics.Typeface;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.github.mikephil.charting.charts.BarChart;
-import com.github.mikephil.charting.components.XAxis;
-import com.github.mikephil.charting.components.XAxis.XAxisPosition;
-import com.github.mikephil.charting.components.YAxis;
-import com.github.mikephil.charting.data.BarData;
-import com.github.mikephil.charting.data.ChartData;
+import com.github.abidfaiz.charting.charts.BarChart;
+import com.github.abidfaiz.charting.components.XAxis;
+import com.github.abidfaiz.charting.components.XAxis.XAxisPosition;
+import com.github.abidfaiz.charting.components.YAxis;
+import com.github.abidfaiz.charting.data.BarData;
+import com.github.abidfaiz.charting.data.ChartData;
 import com.xxmassdeveloper.mpchartexample.R;
 
 public class BarChartItem extends ChartItem {

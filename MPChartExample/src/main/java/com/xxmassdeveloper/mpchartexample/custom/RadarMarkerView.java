@@ -6,10 +6,10 @@ import android.content.Context;
 import android.graphics.Typeface;
 import android.widget.TextView;
 
-import com.github.mikephil.charting.components.MarkerView;
-import com.github.mikephil.charting.data.Entry;
-import com.github.mikephil.charting.highlight.Highlight;
-import com.github.mikephil.charting.utils.MPPointF;
+import com.github.abidfaiz.charting.components.MarkerView;
+import com.github.abidfaiz.charting.data.Entry;
+import com.github.abidfaiz.charting.highlight.Highlight;
+import com.github.abidfaiz.charting.utils.MPPointF;
 import com.xxmassdeveloper.mpchartexample.R;
 
 import java.text.DecimalFormat;

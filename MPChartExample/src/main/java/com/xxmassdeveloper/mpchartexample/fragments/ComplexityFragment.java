@@ -7,10 +7,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.github.mikephil.charting.charts.LineChart;
-import com.github.mikephil.charting.components.Legend;
-import com.github.mikephil.charting.components.XAxis;
-import com.github.mikephil.charting.components.YAxis;
+import com.github.abidfaiz.charting.charts.LineChart;
+import com.github.abidfaiz.charting.components.Legend;
+import com.github.abidfaiz.charting.components.XAxis;
+import com.github.abidfaiz.charting.components.YAxis;
 import com.xxmassdeveloper.mpchartexample.R;
 
 

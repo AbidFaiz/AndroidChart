@@ -16,16 +16,16 @@ import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 
-import com.github.mikephil.charting.charts.CandleStickChart;
-import com.github.mikephil.charting.components.XAxis;
-import com.github.mikephil.charting.components.XAxis.XAxisPosition;
-import com.github.mikephil.charting.components.YAxis;
-import com.github.mikephil.charting.components.YAxis.AxisDependency;
-import com.github.mikephil.charting.data.CandleData;
-import com.github.mikephil.charting.data.CandleDataSet;
-import com.github.mikephil.charting.data.CandleEntry;
-import com.github.mikephil.charting.interfaces.datasets.ICandleDataSet;
-import com.github.mikephil.charting.interfaces.datasets.IDataSet;
+import com.github.abidfaiz.charting.charts.CandleStickChart;
+import com.github.abidfaiz.charting.components.XAxis;
+import com.github.abidfaiz.charting.components.XAxis.XAxisPosition;
+import com.github.abidfaiz.charting.components.YAxis;
+import com.github.abidfaiz.charting.components.YAxis.AxisDependency;
+import com.github.abidfaiz.charting.data.CandleData;
+import com.github.abidfaiz.charting.data.CandleDataSet;
+import com.github.abidfaiz.charting.data.CandleEntry;
+import com.github.abidfaiz.charting.interfaces.datasets.ICandleDataSet;
+import com.github.abidfaiz.charting.interfaces.datasets.IDataSet;
 import com.xxmassdeveloper.mpchartexample.notimportant.DemoBase;
 
 import java.util.ArrayList;

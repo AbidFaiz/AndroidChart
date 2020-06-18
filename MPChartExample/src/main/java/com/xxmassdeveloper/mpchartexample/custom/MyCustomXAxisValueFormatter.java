@@ -1,7 +1,7 @@
 package com.xxmassdeveloper.mpchartexample.custom;
 
-import com.github.mikephil.charting.formatter.ValueFormatter;
-import com.github.mikephil.charting.utils.ViewPortHandler;
+import com.github.abidfaiz.charting.formatter.ValueFormatter;
+import com.github.abidfaiz.charting.utils.ViewPortHandler;
 
 import java.text.DecimalFormat;
 

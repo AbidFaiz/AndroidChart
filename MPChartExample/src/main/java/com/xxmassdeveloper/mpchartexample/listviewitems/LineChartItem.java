@@ -7,12 +7,12 @@ import android.graphics.Typeface;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.github.mikephil.charting.charts.LineChart;
-import com.github.mikephil.charting.components.XAxis;
-import com.github.mikephil.charting.components.XAxis.XAxisPosition;
-import com.github.mikephil.charting.components.YAxis;
-import com.github.mikephil.charting.data.ChartData;
-import com.github.mikephil.charting.data.LineData;
+import com.github.abidfaiz.charting.charts.LineChart;
+import com.github.abidfaiz.charting.components.XAxis;
+import com.github.abidfaiz.charting.components.XAxis.XAxisPosition;
+import com.github.abidfaiz.charting.components.YAxis;
+import com.github.abidfaiz.charting.data.ChartData;
+import com.github.abidfaiz.charting.data.LineData;
 import com.xxmassdeveloper.mpchartexample.R;
 
 public class LineChartItem extends ChartItem {

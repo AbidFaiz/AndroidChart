@@ -3,9 +3,9 @@ package com.xxmassdeveloper.mpchartexample.custom;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 
-import com.github.mikephil.charting.interfaces.datasets.IScatterDataSet;
-import com.github.mikephil.charting.renderer.scatter.IShapeRenderer;
-import com.github.mikephil.charting.utils.ViewPortHandler;
+import com.github.abidfaiz.charting.interfaces.datasets.IScatterDataSet;
+import com.github.abidfaiz.charting.renderer.scatter.IShapeRenderer;
+import com.github.abidfaiz.charting.utils.ViewPortHandler;
 
 /**
  * Custom shape renderer that draws a single line.
