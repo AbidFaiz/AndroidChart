@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.developer.charts">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="false"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.developer.charts.notimportant.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.developer.charts.LineChartActivity1" />
+        <activity android:name="com.developer.charts.LineChartActivity2" />
+        <activity android:name="com.developer.charts.LineChartTime" />
+        <activity android:name="com.developer.charts.BarChartActivity" />
+		<activity android:name="com.developer.charts.HorizontalBarChartActivity" />
+        <activity android:name="com.developer.charts.HorizontalBarNegativeChartActivity" />
+        <activity android:name="com.developer.charts.PieChartActivity" />
+        <activity android:name="com.developer.charts.PiePolylineChartActivity" />
+        <activity android:name="com.developer.charts.MultiLineChartActivity" />
+        <activity android:name="com.developer.charts.BarChartActivityMultiDataset" />
+        <activity android:name="com.developer.charts.DrawChartActivity" />
+        <activity android:name="com.developer.charts.ScatterChartActivity" />
+        <activity android:name="com.developer.charts.BubbleChartActivity" />
+        <activity android:name="com.developer.charts.fragments.SimpleChartDemo" />
+        <activity android:name="com.developer.charts.ListViewBarChartActivity" />
+        <activity android:name="com.developer.charts.ListViewMultiChartActivity" />
+        <activity android:name="com.developer.charts.StackedBarActivity" />
+        <activity android:name="com.developer.charts.AnotherBarActivity" />
+        <activity android:name="com.developer.charts.InvertedLineChartActivity" />
+        <activity android:name="com.developer.charts.CandleStickChartActivity" />
+        <activity android:name="com.developer.charts.CubicLineChartActivity" />
+        <activity android:name="com.developer.charts.RadarChartActivity" />
+        <activity android:name="com.developer.charts.LineChartActivityColored" />
+        <activity android:name="com.developer.charts.DynamicalAddingActivity" />
+        <activity android:name="com.developer.charts.RealtimeLineChartActivity" />
+        <activity android:name="com.developer.charts.CombinedChartActivity" />
+        <activity android:name="com.developer.charts.PerformanceLineChart" />
+        <activity android:name="com.developer.charts.BarChartActivitySinus" />
+        <activity android:name="com.developer.charts.ScrollViewActivity" />
+        <activity android:name="com.developer.charts.StackedBarActivityNegative" />
+        <activity android:name="com.developer.charts.BarChartPositiveNegative" />
+        <activity android:name="com.developer.charts.FilledLineActivity" />
+        <activity android:name="com.developer.charts.HalfPieChartActivity" />
+    </application>
+
+</manifest>
